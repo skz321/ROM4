@@ -46,11 +46,11 @@ WesSavingsAccount = SavingsAccount("Wes", 2000, 100, "213213", "4320213", .05)
 WesSavingsAccount.apply_interest()
 # Jack opens saving account
 JackSavingsAccount = SavingsAccount("Jack", 2000, 300, "2323213", "6774223", .03)
-# Jack apples interest to account
+# Jack applies interest to account
 JackSavingsAccount.apply_interest()
-# Wes applys interest to account
+# Wes applies interest to account
 WesSavingsAccount.apply_interest()
 # Jack opens saving account
 JackSavingsAccount = SavingsAccount("Jack", 2000, 300, "2323213", "6774223", .03)
-# Jack applys interst to account
+# Jack applies interest to account
 JackSavingsAccount.apply_interest()
